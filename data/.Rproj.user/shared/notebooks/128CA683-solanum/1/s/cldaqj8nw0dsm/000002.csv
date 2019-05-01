@@ -1,0 +1,79 @@
+"0","library(tidyverse)"
+"2","[37m── [1mAttaching packages[22m ───────────────────────────────────────────────── tidyverse 1.2.1 ──[39m
+"
+"2","[37m[32m✔[37m [34mggplot2[37m 3.1.0     [32m✔[37m [34mpurrr  [37m 0.3.0
+[32m✔[37m [34mtibble [37m 2.0.1     [32m✔[37m [34mdplyr  [37m 0.7.8
+[32m✔[37m [34mtidyr  [37m 0.8.2     [32m✔[37m [34mstringr[37m 1.4.0
+[32m✔[37m [34mreadr  [37m 1.3.1     [32m✔[37m [34mforcats[37m 0.3.0[39m
+"
+"2","[37m── [1mConflicts[22m ──────────────────────────────────────────────────── tidyverse_conflicts() ──
+[31m✖[37m [34mdplyr[37m::[32mfilter()[37m masks [34mstats[37m::filter()
+[31m✖[37m [34mdplyr[37m::[32mlag()[37m    masks [34mstats[37m::lag()[39m
+"
+"0","library(rgdal)"
+"2","Loading required package: sp
+"
+"2","rgdal: version: 1.3-6, (SVN revision 773)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 2.1.3, released 2017/20/01
+ Path to GDAL shared files: /Library/Frameworks/R.framework/Versions/3.5/Resources/library/rgdal/gdal
+ GDAL binary built with GEOS: FALSE 
+ Loaded PROJ.4 runtime: Rel. 4.9.3, 15 August 2016, [PJ_VERSION: 493]
+ Path to PROJ.4 shared files: /Library/Frameworks/R.framework/Versions/3.5/Resources/library/rgdal/proj
+ Linking to sp version: 1.3-1 
+"
+"0","library(sf)"
+"2","Linking to GEOS 3.6.1, GDAL 2.1.3, PROJ 4.9.3
+"
+"0","# Biome Data, converted to sf object"
+"0","(biomes <- readOGR(""bioclimates/"", layer = ""bc5_dd""))"
+"1","OGR data source with driver:"
+"1"," "
+"1","ESRI Shapefile"
+"1"," "
+"1","
+"
+"1","Source: """
+"1",""
+"1","/Users/christopherdudley/Library/Mobile Documents/com~apple~CloudDocs/Solanum/data/bioclimates"
+"1",""
+"1",""", layer: """
+"1",""
+"1","bc5_dd"
+"1",""
+"1",""""
+"1",""
+"1","
+"
+"1","with"
+"1"," "
+"1","31"
+"1"," "
+"1","features"
+"1","
+"
+"1","It has"
+"1"," "
+"1","5"
+"1"," "
+"1","fields"
+"1","
+"
+"1","Integer64 fields read as strings: "
+"1"," "
+"1","BC5D_ BC5D_ID"
+"1"," "
+"1","
+"
+"1","An object of class "
+"1",""
+"1","""SpatialPolygonsDataFrame"""
+"1",""
+"1","
+"
+"1","Slot "
+"1",""
+"1","""data"""
+"1",""
+"1",":
+"
