@@ -4,9 +4,9 @@ This repository contains the data and analysis for my MSc thesis.
 
 # Important Files in this Repository
 
-`data/solanum.Rproj` –– the project environment for this analysis
+`solanum.Rproj` –– the project environment for this analysis
 
-`data/solanum.RMD` –– R Markdown file containing my MSc data analysis and figure creation
+`solanum.RMD` –– R Markdown file containing my MSc data analysis and figure creation
 
 `data/sol.csv` –– distribution data of the Malagasy spiny *solanum*
 
