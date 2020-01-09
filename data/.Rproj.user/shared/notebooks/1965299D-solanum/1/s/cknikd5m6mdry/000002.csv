@@ -1,4 +1,0 @@
-"0","climRasters <- map(climRasters, raster) # provides a list of single-layer rasters
-"
-"2","Error in map(climRasters, raster) : could not find function ""map""
-"
