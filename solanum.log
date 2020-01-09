@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  8 JAN 2020 19:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  8 JAN 2020 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,251 +785,238 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `T1/lmtt/b/n' tried instead on input line 153.
 
-Package xcolor Warning: Incompatible color definition on input line 164.
+Package xcolor Warning: Incompatible color definition on input line 167.
 
 
-Package xcolor Warning: Incompatible color definition on input line 164.
+Package xcolor Warning: Incompatible color definition on input line 167.
 
 
-Package xcolor Warning: Incompatible color definition on input line 176.
-
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 179
-.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmtt.fd
-File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-Package xcolor Warning: Incompatible color definition on input line 215.
+Package xcolor Warning: Incompatible color definition on input line 179.
 
 
-Package xcolor Warning: Incompatible color definition on input line 215.
+Package xcolor Warning: Incompatible color definition on input line 218.
 
 
-Package xcolor Warning: Incompatible color definition on input line 215.
+Package xcolor Warning: Incompatible color definition on input line 218.
+
+
+Package xcolor Warning: Incompatible color definition on input line 218.
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package xcolor Warning: Incompatible color definition on input line 215.
+Package xcolor Warning: Incompatible color definition on input line 218.
 
 
-Package xcolor Warning: Incompatible color definition on input line 215.
+Package xcolor Warning: Incompatible color definition on input line 218.
 
-<solanum_files/figure-latex/unnamed-chunk-1-1.pdf, id=52, 193.72375pt x 301.125
+<solanum_files/figure-latex/unnamed-chunk-1-1.pdf, id=50, 193.72375pt x 301.125
 pt>
 File: solanum_files/figure-latex/unnamed-chunk-1-1.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-1-1.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-1-1.pdf  used
- on input line 217.
+ on input line 220.
 (pdftex.def)             Requested size: 193.72621pt x 301.12885pt.
 
-Package xcolor Warning: Incompatible color definition on input line 239.
-
-
-Package xcolor Warning: Incompatible color definition on input line 290.
-
-
-Package xcolor Warning: Incompatible color definition on input line 290.
-
-
-Overfull \vbox (0.84053pt too high) detected at line 290
- []
-
-
-Package xcolor Warning: Incompatible color definition on input line 290.
+Package xcolor Warning: Incompatible color definition on input line 242.
 
 [2 <./solanum_files/figure-latex/unnamed-chunk-1-1.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 290.
+Package xcolor Warning: Incompatible color definition on input line 293.
 
 
-Package xcolor Warning: Incompatible color definition on input line 290.
+Package xcolor Warning: Incompatible color definition on input line 293.
 
-<solanum_files/figure-latex/unnamed-chunk-3-1.pdf, id=65, 193.72375pt x 302.128
+<solanum_files/figure-latex/unnamed-chunk-3-1.pdf, id=63, 193.72375pt x 302.128
 75pt>
 File: solanum_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-3-1.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-3-1.pdf  used
- on input line 292.
+ on input line 295.
 (pdftex.def)             Requested size: 193.72327pt x 302.128pt.
 [3]
 
-Package xcolor Warning: Incompatible color definition on input line 311.
+Package xcolor Warning: Incompatible color definition on input line 314.
 
 
-Package xcolor Warning: Incompatible color definition on input line 339.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 
-Package xcolor Warning: Incompatible color definition on input line 339.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 
-Package xcolor Warning: Incompatible color definition on input line 339.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 [4 <./solanum_files/figure-latex/unnamed-chunk-3-1.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 339.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 
-Package xcolor Warning: Incompatible color definition on input line 339.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 
-Package xcolor Warning: Incompatible color definition on input line 376.
+Package xcolor Warning: Incompatible color definition on input line 379.
 
 
-Package xcolor Warning: Incompatible color definition on input line 409.
+Package xcolor Warning: Incompatible color definition on input line 412.
 
 
-Package xcolor Warning: Incompatible color definition on input line 409.
+Package xcolor Warning: Incompatible color definition on input line 412.
 
 
-Package xcolor Warning: Incompatible color definition on input line 409.
+Package xcolor Warning: Incompatible color definition on input line 412.
 
 [5]
 
-Package xcolor Warning: Incompatible color definition on input line 409.
+Package xcolor Warning: Incompatible color definition on input line 412.
 
 
-Package xcolor Warning: Incompatible color definition on input line 409.
+Package xcolor Warning: Incompatible color definition on input line 412.
 
 
-Package xcolor Warning: Incompatible color definition on input line 429.
+Package xcolor Warning: Incompatible color definition on input line 432.
 
 
-Package xcolor Warning: Incompatible color definition on input line 483.
+Package xcolor Warning: Incompatible color definition on input line 486.
 
 
-Package xcolor Warning: Incompatible color definition on input line 483.
+Package xcolor Warning: Incompatible color definition on input line 486.
 
 
-Package xcolor Warning: Incompatible color definition on input line 483.
+Package xcolor Warning: Incompatible color definition on input line 486.
 
 [6]
 
-Package xcolor Warning: Incompatible color definition on input line 483.
+Package xcolor Warning: Incompatible color definition on input line 486.
 
 
-Package xcolor Warning: Incompatible color definition on input line 483.
+Package xcolor Warning: Incompatible color definition on input line 486.
 
-<solanum_files/figure-latex/unnamed-chunk-7-1.pdf, id=96, 459.7175pt x 313.17pt
+<solanum_files/figure-latex/unnamed-chunk-7-1.pdf, id=94, 459.7175pt x 313.17pt
 >
 File: solanum_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-7-1.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-7-1.pdf  used
- on input line 485.
+ on input line 488.
 (pdftex.def)             Requested size: 459.7304pt x 313.17877pt.
 
-Package xcolor Warning: Incompatible color definition on input line 487.
+Package xcolor Warning: Incompatible color definition on input line 490.
 
 
-Package xcolor Warning: Incompatible color definition on input line 498.
+Package xcolor Warning: Incompatible color definition on input line 501.
 
 
-Package xcolor Warning: Incompatible color definition on input line 498.
+Package xcolor Warning: Incompatible color definition on input line 501.
 
-<solanum_files/figure-latex/unnamed-chunk-7-2.pdf, id=97, 428.60126pt x 313.17p
+<solanum_files/figure-latex/unnamed-chunk-7-2.pdf, id=95, 428.60126pt x 313.17p
 t>
 File: solanum_files/figure-latex/unnamed-chunk-7-2.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-7-2.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-7-2.pdf  used
- on input line 500.
+ on input line 503.
 (pdftex.def)             Requested size: 428.6002pt x 313.16922pt.
 [7 <./solanum_files/figure-latex/unnamed-chunk-7-1.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 502.
+Package xcolor Warning: Incompatible color definition on input line 505.
+
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 516
+.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package xcolor Warning: Incompatible color definition on input line 531.
 
 
-Package xcolor Warning: Incompatible color definition on input line 528.
+Package xcolor Warning: Incompatible color definition on input line 531.
 
-
-Package xcolor Warning: Incompatible color definition on input line 528.
-
-<solanum_files/figure-latex/unnamed-chunk-7-3.pdf, id=110, 463.7325pt x 306.143
+<solanum_files/figure-latex/unnamed-chunk-7-3.pdf, id=108, 463.7325pt x 306.143
 75pt>
 File: solanum_files/figure-latex/unnamed-chunk-7-3.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-7-3.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-7-3.pdf  used
- on input line 530.
+ on input line 533.
 (pdftex.def)             Requested size: 463.73842pt x 306.14766pt.
 [8 <./solanum_files/figure-latex/unnamed-chunk-7-2.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 532.
+Package xcolor Warning: Incompatible color definition on input line 535.
 
 
-Package xcolor Warning: Incompatible color definition on input line 544.
+Package xcolor Warning: Incompatible color definition on input line 547.
 
 
-Package xcolor Warning: Incompatible color definition on input line 544.
+Package xcolor Warning: Incompatible color definition on input line 547.
 
-<solanum_files/figure-latex/unnamed-chunk-7-4.pdf, id=123, 463.7325pt x 314.173
+<solanum_files/figure-latex/unnamed-chunk-7-4.pdf, id=122, 463.7325pt x 314.173
 75pt>
 File: solanum_files/figure-latex/unnamed-chunk-7-4.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-7-4.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-7-4.pdf  used
- on input line 546.
+ on input line 549.
 (pdftex.def)             Requested size: 463.73842pt x 314.17776pt.
 [9 <./solanum_files/figure-latex/unnamed-chunk-7-3.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 558.
+Package xcolor Warning: Incompatible color definition on input line 561.
 
 
-Package xcolor Warning: Incompatible color definition on input line 612.
+Package xcolor Warning: Incompatible color definition on input line 617.
 
 
-Package xcolor Warning: Incompatible color definition on input line 612.
+Package xcolor Warning: Incompatible color definition on input line 617.
 
 
-Package xcolor Warning: Incompatible color definition on input line 612.
+Package xcolor Warning: Incompatible color definition on input line 617.
 
 [10 <./solanum_files/figure-latex/unnamed-chunk-7-4.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 612.
+Package xcolor Warning: Incompatible color definition on input line 617.
 
 
-Package xcolor Warning: Incompatible color definition on input line 612.
+Package xcolor Warning: Incompatible color definition on input line 617.
 
-<solanum_files/figure-latex/unnamed-chunk-9-1.pdf, id=147, 417.56pt x 303.1325p
+<solanum_files/figure-latex/unnamed-chunk-9-1.pdf, id=146, 417.56pt x 303.1325p
 t>
 File: solanum_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type pdf)
 <use solanum_files/figure-latex/unnamed-chunk-9-1.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-9-1.pdf  used
- on input line 614.
+ on input line 619.
 (pdftex.def)             Requested size: 417.56532pt x 303.13638pt.
 [11]
 
-Package xcolor Warning: Incompatible color definition on input line 624.
+Package xcolor Warning: Incompatible color definition on input line 629.
 
 
-Package xcolor Warning: Incompatible color definition on input line 639.
+Package xcolor Warning: Incompatible color definition on input line 644.
 
 
-Package xcolor Warning: Incompatible color definition on input line 639.
+Package xcolor Warning: Incompatible color definition on input line 644.
 
-<solanum_files/figure-latex/unnamed-chunk-11-1.pdf, id=152, 415.5525pt x 295.10
+<solanum_files/figure-latex/unnamed-chunk-11-1.pdf, id=151, 415.5525pt x 295.10
 25pt>
 File: solanum_files/figure-latex/unnamed-chunk-11-1.pdf Graphic file (type pdf)
 
 <use solanum_files/figure-latex/unnamed-chunk-11-1.pdf>
 Package pdftex.def Info: solanum_files/figure-latex/unnamed-chunk-11-1.pdf  use
-d on input line 641.
+d on input line 646.
 (pdftex.def)             Requested size: 415.55782pt x 295.10626pt.
 [12 <./solanum_files/figure-latex/unnamed-chunk-9-1.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 644.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 649.
 [13 <./solanum_files/figure-latex/unnamed-chunk-11-1.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 644.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 649.
 (./solanum.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 644.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 644.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 649.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 649.
 Package rerunfilecheck Info: File `solanum.out' has not changed.
 (rerunfilecheck)             Checksum: DB53AC84A641212BB7604C3A941B5899;1001.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 644.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 649.
  ) 
 Here is how much of TeX's memory you used:
- 14328 strings out of 492649
- 208291 string characters out of 6129622
+ 14326 strings out of 492649
+ 208243 string characters out of 6129622
  336718 words of memory out of 5000000
- 17940 multiletter control sequences out of 15000+600000
- 33060 words of font info for 52 fonts, out of 8000000 for 9000
+ 17937 multiletter control sequences out of 15000+600000
+ 32836 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,38p,369b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
@@ -1040,10 +1027,10 @@ texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist
 /lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtk10.pf
 b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/lo
 cal/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on solanum.pdf (13 pages, 384943 bytes).
+Output written on solanum.pdf (13 pages, 383138 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 214 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
  8297 words of extra memory for PDF output out of 10000 (max. 10000000)
 
